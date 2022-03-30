@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emaldonado07
+- 👀 I’m interested in AI and automation testing.
+- 🌱 I’m currently learning about software architecture.
